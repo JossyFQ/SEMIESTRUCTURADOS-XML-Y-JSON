@@ -1,5 +1,6 @@
 [
   {
+      "id": 1,
       "cedulaID": "1413538362",
       "nombrePaciente": "Kelly Quiroz",
       "procedimientoNecesario": "Tratamiento de especialida",
@@ -11,6 +12,7 @@
       "fechaRegistro": "13/10/2023"
   },
   {
+      "id": 2,
       "cedulaID": "1622567890",
       "nombrePaciente": "Fernando Alvarez",
       "procedimientoNecesario": "No requiere",
