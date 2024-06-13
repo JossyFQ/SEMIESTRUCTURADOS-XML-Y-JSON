@@ -1,0 +1,24 @@
+[
+  {
+      "cedulaID": "1413538362",
+      "nombrePaciente": "Kelly Quiroz",
+      "procedimientoNecesario": "Tratamiento de especialida",
+      "diagnostico-Complicaciones": "Dolor postoperatorio, necrosis pulpar, absceso dentoalveolar agudo, perforación de furca.",
+      "nombreProfesional": "Josue Mendoza",
+      "codigoPatología": "CIE-10-K04.0",
+      "codigoTratamiento": "PULPITIS REVERSIBLE",
+      "protocoloTratamiento": "Administrar anestesia local infiltrativa o troncular, aislamiento absoluto o relativo, retiro de caries, acceso cameral con fresa redonda, eliminar pulpa cameral, irrigar con hipoclorito de sodio al 2,5% y/o hidróxido de calcio químicamente puro con suero fisiológico, colocar torunda estéril con paramonoclorofenol, obturación temporal, referencia al nivel superior",
+      "fechaRegistro": "13/10/2023"
+  },
+  {
+      "cedulaID": "1622567890",
+      "nombrePaciente": "Fernando Alvarez",
+      "procedimientoNecesario": "No requiere",
+      "diagnostico-Complicaciones": "Ninguno",
+      "nombreProfesional": "Marcelo Zamora",
+      "codigoPatología": "CIE-10-K02.8",
+      "codigoTratamiento": "CARIES RECIDIVANTE",
+      "protocoloTratamiento": "Eliminación del hábito, control de placa bacteriana, control de pH salival, control de dieta, control cada tres meses",
+      "fechaRegistro": "04/05/2024"
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profesores>
+    <profesor>
+        <cedulaID>1413538362</cedulaID>
+        <nombrePaciente>Kelly Quiroz</nombrePaciente>
+        <procedimientoNecesario>Tratamiento de especialidad</procedimientoNecesario>
+        <diagnostico-Complicaciones>Dolor postoperatorio, necrosis pulpar, absceso dentoalveolar agudo, perforación de furca.</diagnostico-Complicaciones>
+        <nombreProfesional>Josue Mendoza</nombreProfesional>
+        <codigoPatología>CIE-10-K04.0</codigoPatología>
+        <codigoTratamiento>PULPITIS REVERSIBLE</codigoTratamiento>
+        <protocoloTratamiento>Administrar anestesia local infiltrativa o troncular, aislamiento absoluto o relativo, retiro de caries, acceso cameral con fresa redonda, eliminar pulpa cameral, irrigar con hipoclorito de sodio al 2,5% y/o hidróxido de calcio químicamente puro con suero fisiológico, colocar torunda estéril con paramonoclorofenol, obturación temporal, referencia al nivel superior</protocoloTratamiento>
+        <fechaRegistro>13/10/2023</fechaRegistro>
+    </profesor>
+    <profesor>
+        <cedulaID>1622567890</cedulaID>
+        <nombrePaciente>Fernando Alvarez</nombrePaciente>
+        <procedimientoNecesario>No requiere</procedimientoNecesario>
+        <diagnostico-Complicaciones>Ninguno</diagnostico-Complicaciones>
+        <nombreProfesional>Marcelo Zamora</nombreProfesional>
+        <codigoPatología>CIE-10-K02.8</codigoPatología>
+        <codigoTratamiento>CARIES RECIDIVANTE</codigoTratamiento>
+        <protocoloTratamiento>Eliminación del hábito, control de placa bacteriana, control de pH salival, control de dieta, control cada tres meses</protocoloTratamiento>
+        <fechaRegistro>04/05/2024</fechaRegistro>
+    </profesor>
+</profesores>
