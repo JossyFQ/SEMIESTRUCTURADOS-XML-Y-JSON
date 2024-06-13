@@ -66,6 +66,8 @@
         </form>
     </div>
 
+    <script src="../js/jquery-3.4.1.min.js"></script>
+
     <script type="text/javascript">
         $(document).ready(() => { // Funcion para iniciar la lectura de xml
             $('#importarXML').click(() => { // Se inicia al momento de dar click en el botón Importar XML
@@ -87,7 +89,6 @@
                         fila.append($(`<td>${$(this).find('protocoloTratamiento').text()}</td>`));
                         fila.append($(`<td>${$(this).find('fechaRegistro').text()}</td>`));
 
-                        fila.append(tdAsistencia);
                         $('#tabla-pacienteT tbody').append(fila);
                     });
                 });
